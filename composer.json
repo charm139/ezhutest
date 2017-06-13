@@ -4,6 +4,14 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "license": "charm",
+    "authors": [
+        {
+            "name": "charm",
+            "email": "myyangql@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
             "wisderapi\\": "src/"
