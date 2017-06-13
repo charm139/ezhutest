@@ -1,6 +1,6 @@
 {
-    "name": "ezhu-erp-sdk/wisderapi",
-    "description": "E助erp-sdk",
+    "name": "ezhutest/wisderapi",
+    "description": "E助erp-sdk 测试",
     "require": {
         "php": ">=5.3.0"
     },
