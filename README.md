@@ -4,7 +4,7 @@
 
 **install with composer**
 ```php
-composer require ezhu-erp-sdk/wisderapi
+composer require ezhutest/wisderapi
 ```
 
 ## Usage
