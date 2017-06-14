@@ -85,4 +85,6 @@ class wisderapi {
         $result = json_decode($data,true);
         return $result;     
     }
+
+
 }
