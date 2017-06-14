@@ -3,7 +3,6 @@
     "description": "E助erp-sdk 测试",
     "keywords": ["wisder", "ezhu"],
     "license": "MIT",
-    "type": "project",
     "require": {
         "php": ">=5.3.0"
     },
